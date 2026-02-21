@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(1, 154, 1);
+}
+
+table{
+    color: chartreuse;
+    background-color: darkgreen;
+    margin:30px;
+}
+
+.main{
+    border-style: solid;
+    border-color: darkgreen;
+    padding:30px;
+}

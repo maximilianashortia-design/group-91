@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(30, 6, 213);
+}
+
+
+.main{
+    border-style: solid;
+    border-color: rgb(31, 50, 0);
+    padding:10px;
+    margin: 30px;
+}
+
+
+.button{
+    background-color: chartreuse;
+}
+
+
+.div2{
+    border-style: solid;
+    border-color: aqua;
+    margin: 30px;
+}
+
+
+.div3{
+    border-style: solid;
+    border-color: darkred;
+    margin: 30px;
+}
+
+.btn2{
+    background-color: rgb(4, 232, 156);
+}
+
+
+.button3{
+    background-color: firebrick;
+}
